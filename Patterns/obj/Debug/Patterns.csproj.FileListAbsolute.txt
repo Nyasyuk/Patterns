@@ -1,0 +1,7 @@
+Z:\Programs\VS\Pattern\Patterns\Patterns\bin\Debug\Patterns.exe.config
+Z:\Programs\VS\Pattern\Patterns\Patterns\bin\Debug\Patterns.exe
+Z:\Programs\VS\Pattern\Patterns\Patterns\bin\Debug\Patterns.pdb
+Z:\Programs\VS\Pattern\Patterns\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
+Z:\Programs\VS\Pattern\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+Z:\Programs\VS\Pattern\Patterns\Patterns\obj\Debug\Patterns.exe
+Z:\Programs\VS\Pattern\Patterns\Patterns\obj\Debug\Patterns.pdb
